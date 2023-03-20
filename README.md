@@ -23,10 +23,18 @@ Here's exactly the tutorial sections you need. Don't bother doing the entire thi
 -   [Part 5 "Introducing automated testing"](https://docs.djangoproject.com/en/4.1/intro/tutorial05/)
 -   [Part 7 "Customize the admin form"](https://docs.djangoproject.com/en/4.1/intro/tutorial07/)
 
-## When you're ready, here's the code to snag the repo.
+## When you're ready, here's the code to snag the repo. Follow the steps to get it running!
 ```bash
 
 
-$ git clone git@gitlab.com:shadownate12/nathans-first-project.git
+git clone git@gitlab.com:shadownate12/nathans-first-project.git
+cd nathans-first-project/
+cd ncweb/
+python manage.py migrate
+python manage.py runserver
+
 ```
+Then open your favorite web browser and go to:
+
+http://localhost:8000/webCalc/index
 
