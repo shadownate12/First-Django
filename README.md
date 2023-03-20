@@ -22,3 +22,11 @@ Here's exactly the tutorial sections you need. Don't bother doing the entire thi
 -   [Part 4 section "Use generic views: Less code is better"](https://docs.djangoproject.com/en/4.1/intro/tutorial04/)
 -   [Part 5 "Introducing automated testing"](https://docs.djangoproject.com/en/4.1/intro/tutorial05/)
 -   [Part 7 "Customize the admin form"](https://docs.djangoproject.com/en/4.1/intro/tutorial07/)
+
+##When you're ready, heres the code to snag the repo.
+```bash
+
+
+$ git clone git@gitlab.com:shadownate12/nathans-first-project.git
+```
+
